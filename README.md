@@ -41,6 +41,7 @@ Apart from finding bugs and security issues I mostly focus on making websites fu
 
 ## Past projects
 🛠️ = The project is still being maintained but is no longer under active development
+- 🛠️ [MiSide MenuLib](https://github.com/SliceCraft/MiSideMenuLib) (2025) - This mod is a small library for making it easier to modify the MiSide main menu.
 - 🛠️ [Lethal Company Chaos Mod](https://github.com/SliceCraft/ChaosMod) (2024) - Applying random effects to the host of a lobby. Inspired by the [GTA 5 Chaos Mod](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
 - Minecraft Showdown (2023 - 2025, closed source) - Group of plugins for hosting a tournament in Minecraft with Minigames. This project has been put on pause indefinitely due to a lack of time from everyone involved.
 - [Bubblez Bot](https://github.com/ProjectBubblez/bubblez-bot) (2021 - 2022) - Bot with a few features implemented for the Bubblez website
