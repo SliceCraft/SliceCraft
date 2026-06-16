@@ -35,14 +35,14 @@ Apart from finding bugs and security issues I mostly focus on making websites fu
 ## Current projects
 - 🚧 [MiSide Speedrun Mod](https://github.com/SliceCraft/MiSideSpeedrunMod) (2024 - Present) - Mod for helping people find new speedrunning strategies in MiSide by for example revealing Triggers.
 - 🚧 Caturra (2024 - Present, closed source) - Backend for an api only social media platform where anyone can build a frontend.
-- 🚧 [TUYU Leaderboard Website](https://tuyu.slicegames.nl) (2023 - Present, temporarily closed source) - Tracker for MEE6 xp of members in the [TUYU Fan Discord server](https://discord.gg/tuyu).
-- 🚧 TUYU (2021 - Present, temporarily closed source) - Moderation bot customized for the [TUYU Fan Discord server](https://discord.gg/tuyu).
+- 🚧 [TUYU Leaderboard Website](https://tuyu.slicegames.nl) (2023 - Present) - Tracker for MEE6 xp of members in the [TUYU Fan Discord server](https://discord.gg/tuyu).
+- 🚧 [TUYU](https://github.com/SliceCraft/TUYUcordBot) (2021 - Present) - Moderation bot customized for the [TUYU Fan Discord server](https://discord.gg/tuyu).
 - 🚧 Trinity (2020 - Present, closed source) - Multi purpose Discord bot to help with day to day moderation/support.
 
 ## Past projects
 🛠️ = The project is still being maintained but is no longer under active development
 - 🛠️ [MiSide MenuLib](https://github.com/SliceCraft/MiSideMenuLib) (2025) - This mod is a small library for making it easier to modify the MiSide main menu.
-- 🛠️ [Lethal Company Chaos Mod](https://github.com/SliceCraft/ChaosMod) (2024) - Applying random effects to the host of a lobby. Inspired by the [GTA 5 Chaos Mod](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
+- [Lethal Company Chaos Mod](https://github.com/SliceCraft/ChaosMod) (2024) - Applying random effects to the host of a lobby. Inspired by the [GTA 5 Chaos Mod](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
 - Minecraft Showdown (2023 - 2025, closed source) - Group of plugins for hosting a tournament in Minecraft with Minigames. This project has been put on pause indefinitely due to a lack of time from everyone involved.
 - [Bubblez Bot](https://github.com/ProjectBubblez/bubblez-bot) (2021 - 2022) - Bot with a few features implemented for the Bubblez website
 - [Bubblez.js](https://github.com/ProjectBubblez/bubblez.js) (2021 - 2022) - An API wrapper for the Bubblez API.
